@@ -23,7 +23,12 @@
     - content
     - ru_translation
     - en_translation
+    - word: Word
     - category
+
+- Category
+    - id
+    - title
 
 ## Endpoints
 
